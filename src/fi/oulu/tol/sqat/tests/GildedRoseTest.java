@@ -22,7 +22,7 @@ public class GildedRoseTest {
 
 	@Test
 	public void testUpdateEndOfDay_AgedBrie_Quality_10_11() {
-		// Arrange
+		// Arrange by Umar 
 		GildedRose store = new GildedRose();
 		store.addItem(new Item("Aged Brie", 2, 10) );
 		
